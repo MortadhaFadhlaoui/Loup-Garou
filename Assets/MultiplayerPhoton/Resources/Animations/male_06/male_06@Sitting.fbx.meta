@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 15e2b3c5c559e9a42a341f5a381b61ce
+timeCreated: 1525639658
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base HumanHead
+    100002: Base HumanLCalf
+    100004: Base HumanLCollarbone
+    100006: Base HumanLDigit11
+    100008: Base HumanLDigit11 1
+    100010: Base HumanLDigit12
+    100012: Base HumanLDigit13
+    100014: Base HumanLDigit21
+    100016: Base HumanLDigit22
+    100018: Base HumanLDigit23
+    100020: Base HumanLDigit31
+    100022: Base HumanLDigit32
+    100024: Base HumanLDigit33
+    100026: Base HumanLDigit41
+    100028: Base HumanLDigit42
+    100030: Base HumanLDigit43
+    100032: Base HumanLDigit51
+    100034: Base HumanLDigit52
+    100036: Base HumanLDigit53
+    100038: Base HumanLFoot
+    100040: Base HumanLForearm
+    100042: Base HumanLPalm
+    100044: Base HumanLThigh
+    100046: Base HumanLUpperarm
+    100048: Base HumanNeck
+    100050: Base HumanPelvis
+    100052: Base HumanRCalf
+    100054: Base HumanRCollarbone
+    100056: Base HumanRDigit11
+    100058: Base HumanRDigit11 1
+    100060: Base HumanRDigit12
+    100062: Base HumanRDigit13
+    100064: Base HumanRDigit21
+    100066: Base HumanRDigit22
+    100068: Base HumanRDigit23
+    100070: Base HumanRDigit31
+    100072: Base HumanRDigit32
+    100074: Base HumanRDigit33
+    100076: Base HumanRDigit41
+    100078: Base HumanRDigit42
+    100080: Base HumanRDigit43
+    100082: Base HumanRDigit51
+    100084: Base HumanRDigit52
+    100086: Base HumanRDigit53
+    100088: Base HumanRFoot
+    100090: Base HumanRForearm
+    100092: Base HumanRibcage
+    100094: Base HumanRPalm
+    100096: Base HumanRThigh
+    100098: Base HumanRUpperarm
+    100100: Base HumanSpine1
+    100102: Base HumanSpine2
+    100104: Base HumanSpine3
+    100106: Base HumanTail1
+    100108: Base HumanTail2
+    100110: Base HumanTail3
+    100112: bon_gob_war_face
+    100114: bon_gob_war_jaw
+    100116: Highlighter
+    100118: Lag
+    100120: male_06
+    100122: //RootNode
+    100124: mixamorig:Head
+    100126: mixamorig:HeadTop_End
+    100128: mixamorig:Hips
+    100130: mixamorig:LeftArm
+    100132: mixamorig:LeftFoot
+    100134: mixamorig:LeftForeArm
+    100136: mixamorig:LeftHand
+    100138: mixamorig:LeftHandIndex1
+    100140: mixamorig:LeftHandIndex2
+    100142: mixamorig:LeftHandIndex3
+    100144: mixamorig:LeftHandIndex4
+    100146: mixamorig:LeftHandMiddle1
+    100148: mixamorig:LeftHandMiddle2
+    100150: mixamorig:LeftHandMiddle3
+    100152: mixamorig:LeftHandMiddle4
+    100154: mixamorig:LeftHandPinky1
+    100156: mixamorig:LeftHandPinky2
+    100158: mixamorig:LeftHandPinky3
+    100160: mixamorig:LeftHandPinky4
+    100162: mixamorig:LeftHandRing1
+    100164: mixamorig:LeftHandRing2
+    100166: mixamorig:LeftHandRing3
+    100168: mixamorig:LeftHandRing4
+    100170: mixamorig:LeftHandThumb1
+    100172: mixamorig:LeftHandThumb2
+    100174: mixamorig:LeftHandThumb3
+    100176: mixamorig:LeftHandThumb4
+    100178: mixamorig:LeftLeg
+    100180: mixamorig:LeftShoulder
+    100182: mixamorig:LeftToe_End
+    100184: mixamorig:LeftToeBase
+    100186: mixamorig:LeftUpLeg
+    100188: mixamorig:Neck
+    100190: mixamorig:RightArm
+    100192: mixamorig:RightFoot
+    100194: mixamorig:RightForeArm
+    100196: mixamorig:RightHand
+    100198: mixamorig:RightHandIndex1
+    100200: mixamorig:RightHandIndex2
+    100202: mixamorig:RightHandIndex3
+    100204: mixamorig:RightHandIndex4
+    100206: mixamorig:RightHandMiddle1
+    100208: mixamorig:RightHandMiddle2
+    100210: mixamorig:RightHandMiddle3
+    100212: mixamorig:RightHandMiddle4
+    100214: mixamorig:RightHandPinky1
+    100216: mixamorig:RightHandPinky2
+    100218: mixamorig:RightHandPinky3
+    100220: mixamorig:RightHandPinky4
+    100222: mixamorig:RightHandRing1
+    100224: mixamorig:RightHandRing2
+    100226: mixamorig:RightHandRing3
+    100228: mixamorig:RightHandRing4
+    100230: mixamorig:RightHandThumb1
+    100232: mixamorig:RightHandThumb2
+    100234: mixamorig:RightHandThumb3
+    100236: mixamorig:RightHandThumb4
+    100238: mixamorig:RightLeg
+    100240: mixamorig:RightShoulder
+    100242: mixamorig:RightToe_End
+    100244: mixamorig:RightToeBase
+    100246: mixamorig:RightUpLeg
+    100248: mixamorig:Spine
+    100250: mixamorig:Spine1
+    100252: mixamorig:Spine2
+    100254: Recorder
+    100256: Speaker
+    100258: villager_male_rgl_body
+    400000: Base HumanHead
+    400002: Base HumanLCalf
+    400004: Base HumanLCollarbone
+    400006: Base HumanLDigit11
+    400008: Base HumanLDigit11 1
+    400010: Base HumanLDigit12
+    400012: Base HumanLDigit13
+    400014: Base HumanLDigit21
+    400016: Base HumanLDigit22
+    400018: Base HumanLDigit23
+    400020: Base HumanLDigit31
+    400022: Base HumanLDigit32
+    400024: Base HumanLDigit33
+    400026: Base HumanLDigit41
+    400028: Base HumanLDigit42
+    400030: Base HumanLDigit43
+    400032: Base HumanLDigit51
+    400034: Base HumanLDigit52
+    400036: Base HumanLDigit53
+    400038: Base HumanLFoot
+    400040: Base HumanLForearm
+    400042: Base HumanLPalm
+    400044: Base HumanLThigh
+    400046: Base HumanLUpperarm
+    400048: Base HumanNeck
+    400050: Base HumanPelvis
+    400052: Base HumanRCalf
+    400054: Base HumanRCollarbone
+    400056: Base HumanRDigit11
+    400058: Base HumanRDigit11 1
+    400060: Base HumanRDigit12
+    400062: Base HumanRDigit13
+    400064: Base HumanRDigit21
+    400066: Base HumanRDigit22
+    400068: Base HumanRDigit23
+    400070: Base HumanRDigit31
+    400072: Base HumanRDigit32
+    400074: Base HumanRDigit33
+    400076: Base HumanRDigit41
+    400078: Base HumanRDigit42
+    400080: Base HumanRDigit43
+    400082: Base HumanRDigit51
+    400084: Base HumanRDigit52
+    400086: Base HumanRDigit53
+    400088: Base HumanRFoot
+    400090: Base HumanRForearm
+    400092: Base HumanRibcage
+    400094: Base HumanRPalm
+    400096: Base HumanRThigh
+    400098: Base HumanRUpperarm
+    400100: Base HumanSpine1
+    400102: Base HumanSpine2
+    400104: Base HumanSpine3
+    400106: Base HumanTail1
+    400108: Base HumanTail2
+    400110: Base HumanTail3
+    400112: bon_gob_war_face
+    400114: bon_gob_war_jaw
+    400116: Highlighter
+    400118: Lag
+    400120: male_06
+    400122: //RootNode
+    400124: mixamorig:Head
+    400126: mixamorig:HeadTop_End
+    400128: mixamorig:Hips
+    400130: mixamorig:LeftArm
+    400132: mixamorig:LeftFoot
+    400134: mixamorig:LeftForeArm
+    400136: mixamorig:LeftHand
+    400138: mixamorig:LeftHandIndex1
+    400140: mixamorig:LeftHandIndex2
+    400142: mixamorig:LeftHandIndex3
+    400144: mixamorig:LeftHandIndex4
+    400146: mixamorig:LeftHandMiddle1
+    400148: mixamorig:LeftHandMiddle2
+    400150: mixamorig:LeftHandMiddle3
+    400152: mixamorig:LeftHandMiddle4
+    400154: mixamorig:LeftHandPinky1
+    400156: mixamorig:LeftHandPinky2
+    400158: mixamorig:LeftHandPinky3
+    400160: mixamorig:LeftHandPinky4
+    400162: mixamorig:LeftHandRing1
+    400164: mixamorig:LeftHandRing2
+    400166: mixamorig:LeftHandRing3
+    400168: mixamorig:LeftHandRing4
+    400170: mixamorig:LeftHandThumb1
+    400172: mixamorig:LeftHandThumb2
+    400174: mixamorig:LeftHandThumb3
+    400176: mixamorig:LeftHandThumb4
+    400178: mixamorig:LeftLeg
+    400180: mixamorig:LeftShoulder
+    400182: mixamorig:LeftToe_End
+    400184: mixamorig:LeftToeBase
+    400186: mixamorig:LeftUpLeg
+    400188: mixamorig:Neck
+    400190: mixamorig:RightArm
+    400192: mixamorig:RightFoot
+    400194: mixamorig:RightForeArm
+    400196: mixamorig:RightHand
+    400198: mixamorig:RightHandIndex1
+    400200: mixamorig:RightHandIndex2
+    400202: mixamorig:RightHandIndex3
+    400204: mixamorig:RightHandIndex4
+    400206: mixamorig:RightHandMiddle1
+    400208: mixamorig:RightHandMiddle2
+    400210: mixamorig:RightHandMiddle3
+    400212: mixamorig:RightHandMiddle4
+    400214: mixamorig:RightHandPinky1
+    400216: mixamorig:RightHandPinky2
+    400218: mixamorig:RightHandPinky3
+    400220: mixamorig:RightHandPinky4
+    400222: mixamorig:RightHandRing1
+    400224: mixamorig:RightHandRing2
+    400226: mixamorig:RightHandRing3
+    400228: mixamorig:RightHandRing4
+    400230: mixamorig:RightHandThumb1
+    400232: mixamorig:RightHandThumb2
+    400234: mixamorig:RightHandThumb3
+    400236: mixamorig:RightHandThumb4
+    400238: mixamorig:RightLeg
+    400240: mixamorig:RightShoulder
+    400242: mixamorig:RightToe_End
+    400244: mixamorig:RightToeBase
+    400246: mixamorig:RightUpLeg
+    400248: mixamorig:Spine
+    400250: mixamorig:Spine1
+    400252: mixamorig:Spine2
+    400254: Recorder
+    400256: Speaker
+    400258: villager_male_rgl_body
+    2100000: No Name
+    4300000: villager_male_rgl_body
+    7400000: Sitting
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: villager_male_rgl_body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 9475dcdb640701645adff4c111023c6b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sitting
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 210
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
